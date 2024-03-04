@@ -64,7 +64,7 @@ long_df$Date <- as.Date(long_df$Date, format = "%m.%d.%y")
 library(ggplot2)
 library(dplyr)
 
-# Assuming you've already added a 'LogCases' column. If not, here's how to add it:
+# Adding LogCases, here's how to add it:
 long_df <- long_df %>%
   mutate(LogCases = log(Cases + 1)) # Adding 1 to avoid taking log(0)
 
@@ -83,6 +83,7 @@ print(g1)
 ggsave("overall_log_cases.png", g1, width = 8, height = 6, dpi = 300)
 
 ######  graph 1 end, all is good up to this point #############
+
 long_df <- long_df %>%
   group_by(Country.Region) %>%
   filter(sum(!is.na(Cases)) > 0) %>%
@@ -111,10 +112,10 @@ cumulative_cases_by_country <- long_df %>%
   arrange(desc(TotalCases)) %>%
   top_n(5, TotalCases)
 
-# Extract the names of the top 10 countries
+# Extract the names of the top 5 countries
 top_countries <- cumulative_cases_by_country$Country.Region
 
-# Filter the long_df for only top 10 countries
+# Filter the long_df for only top 5 countries
 filtered_df <- long_df %>%
   filter(Country.Region %in% top_countries)
 
@@ -123,7 +124,7 @@ filtered_df <- filtered_df %>%
   mutate(LogCases = log(Cases + 1)) # Adding 1 to avoid log(0)
 
 
-# Plot the change in time of log number of cases by country for top 10 countries
+# Plot the change in time of log number of cases by country for top 5 countries
 g2 <- ggplot(filtered_df, aes(x = Date, y = LogCases, color = Country.Region)) +
   geom_line() +
   labs(title = "Change in Time of Log Number of Cases by Country (Top 5 Countries)",
@@ -148,7 +149,7 @@ ggsave("log_cases_by_top_countries.png", g2, width = 10, height = 6, dpi = 300)
 #   mutate(Date = as.Date(Date, format = "%m.%d.%y"),
 #          InfectionRate = (Cases / Population) * 100000)
 # 
-# # Determine the top 10 countries based on the maximum number of cases
+# # Determine the top 5 countries based on the maximum number of cases
 # top_countries <- long_df %>%
 #   group_by(Country.Region) %>%
 #   summarise(TotalCases = max(Cases, na.rm = TRUE)) %>%
@@ -156,7 +157,7 @@ ggsave("log_cases_by_top_countries.png", g2, width = 10, height = 6, dpi = 300)
 #   top_n(5, TotalCases) %>%
 #   pull(Country.Region)
 # 
-# # Filter the dataset to include only the top 10 countries
+# # Filter the dataset to include only the top 5 countries
 # filtered_df <- long_df %>%
 #   filter(Country.Region %in% top_countries)
 # 
@@ -245,5 +246,5 @@ for (i in 2:5) {
   plot_infection_rate_for_country(country, paste("g", i, sep = ""))
 }
 
-gitstatus
+
 
