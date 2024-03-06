@@ -82,3 +82,4 @@ infection_rate_g5_Brazil.png
 ## Session Info
 
 To reproduce the session info I've included the raw data and R code file and made this repository public. 
+[https://github.com/crice0023/HW-1/tree/main/R%20code]
