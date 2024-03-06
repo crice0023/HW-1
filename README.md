@@ -37,31 +37,31 @@ This graph represents the log cases of the top 5 countries where COVID-19 was fo
 
 infection_rate_top_country.png
 
-We can see that the United States has the highest infection rate. 
+This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (1.25e+11) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario. 
 
 #### Graph 3.2 India
 
 ![image](https://github.com/crice0023/HW-1/assets/161267590/7c7b7698-a799-46ef-b95f-facbc83a42fd)
 
-Graph 2 represents blah blah
-
 infection_rate_g2_India.png
+
+This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (1.25e+11) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
 
 #### Graph 3.3 France
 
 ![image](https://github.com/crice0023/HW-1/assets/161267590/7adb1a79-3227-47ac-93f1-d02c516bb1ac)
 
-Graph 3 contu blah
-
 infection_rate_g3_France.png
+
+This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (1.25e+11) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
 
 #### Graph 3.4 Germany
 
 ![image](https://github.com/crice0023/HW-1/assets/161267590/fd5d655d-56e0-4892-8fef-e071021634c9)
 
-
-
 infection_rate_g4_Germany.png
+
+This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (1.25e+11) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
 
 Graph 4 talk.....
 
@@ -69,15 +69,9 @@ Graph 4 talk.....
 
 ![image](https://github.com/crice0023/HW-1/assets/161267590/8938561a-b0cc-4aeb-a47b-a406748f6c49)
 
-Graph 5 talk.....
-
-
 infection_rate_g5_Brazil.png
 
-
-
-
-
+This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (1.25e+11) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
 
 ## Session Info
 
