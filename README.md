@@ -20,6 +20,15 @@ Subsequent folders include gitignore, HW-1 Rproj, and README.md files as well as
 
 overall_log_cases.png
 
-This graph represents all countries involved within the raw dataset and shows the rise in COVID-19 cases over time. We can see that fast rise in overall COVID-19 cases over the course of a few years. In fact, we can observe a magnitude of 15x change from 2020 to 2023. 
+This graph represents all countries involved within the raw dataset and shows the rise in COVID-19 cases over time. We can see that fast rise in overall COVID-19 cases over the course of a few years. In fact, we can observe a magnitude of 15x change from 2020 to 2023.
+
+### Log Cases by Top 5 Countries
+
+![image](https://github.com/crice0023/HW-1/assets/161267590/563785c9-4edb-4746-8f1b-469650978d53)
+
+log_cases_by_top_countries.png
+
+This graph represents the log cases of the top 5 countries where COVID-19 was found to be the most prevalent. 
+
 c. main findings where you include the three graphs and a sentence or two on their interpretation
 d. session info to help with reproducibility
