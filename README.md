@@ -45,7 +45,7 @@ This graph depicts a significant increase in the rate of infection over the year
 
 infection_rate_g2_India.png
 
-This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (1.25e+11) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
+This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (7e+07) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
 
 #### Graph 3.3 France
 
@@ -53,7 +53,7 @@ This graph depicts a significant increase in the rate of infection over the year
 
 infection_rate_g3_France.png
 
-This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (1.25e+11) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
+This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (6.5e+08) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
 
 #### Graph 3.4 Germany
 
@@ -61,9 +61,7 @@ This graph depicts a significant increase in the rate of infection over the year
 
 infection_rate_g4_Germany.png
 
-This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (1.25e+11) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
-
-Graph 4 talk.....
+This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (5.5e+06) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
 
 #### Graph 3.5 Brazil
 
@@ -71,7 +69,7 @@ Graph 4 talk.....
 
 infection_rate_g5_Brazil.png
 
-This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (1.25e+11) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
+This graph depicts a significant increase in the rate of infection over the years 2020 to 2023, with the rate starting from a low value (around 0.00) and reaching a very high value (6e+06) of infections per 100,000 people by the end of 2023. This steep upward trend suggests a rapid spread of COVID-19 over time, which could indicate an outbreak or pandemic scenario.
 
 ## Session Info
 
