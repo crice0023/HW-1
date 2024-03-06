@@ -20,6 +20,6 @@ Subsequent folders include gitignore, HW-1 Rproj, and README.md files as well as
 
 overall_log_cases.png
 
-This graph represents all countries involved within the raw dataset and shows the rise in COVID-19 cases over time. The scale was manipulated by taking the log of cases (cases/population * 100000).
+This graph represents all countries involved within the raw dataset and shows the rise in COVID-19 cases over time. We can see that fast rise in overall COVID-19 cases over the course of a few years. 
 c. main findings where you include the three graphs and a sentence or two on their interpretation
 d. session info to help with reproducibility
