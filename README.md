@@ -53,6 +53,7 @@ Graph 3 contu blah
 infection_rate_g3_France.png
 
 
+![image](https://github.com/crice0023/HW-1/assets/161267590/fd5d655d-56e0-4892-8fef-e071021634c9)
 
 
 
