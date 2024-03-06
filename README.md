@@ -1,7 +1,6 @@
 # HW-1
 ## Project Description
-Here we aim to find 2 COVID-19 raw datasets from an existing GitHub repository [https://github.com/crice0023/HW-1/tree/main/raw%20data]. Data sets were found and saved to a local computer. 
-Then data sets were cleaned and merged in order to piece together a series of graphs, which will be explained later within the README file. 
+This project started with locating two raw datasets from an existing GitHub repository after learning the basic set up and navigation of GitHub. Data sets were found and saved to a local computer. Then data sets were cleaned and merged in order to piece together a series of visual representations surrounding countries and the impact of the COVID-19 pandemic. 
 
 ##  Repository Organization
 The folder structure can be found here [https://github.com/crice0023/HW-1/tree/main].
