@@ -46,8 +46,9 @@ Graph 2 represents blah blah
 infection_rate_g2_India.png
 
 
+![image](https://github.com/crice0023/HW-1/assets/161267590/7adb1a79-3227-47ac-93f1-d02c516bb1ac)
 
-
+Graph 3 contu blah
 
 infection_rate_g3_France.png
 
