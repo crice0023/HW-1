@@ -28,7 +28,7 @@ This graph represents all countries involved within the raw dataset and shows th
 
 log_cases_by_top_countries.png
 
-This graph represents the log cases of the top 5 countries where COVID-19 was found to be the most prevalent. With the log cases R code we see results are close to identical with regards to the rise of reported cases. However, we see United States, India, Brazil, Japan, and Russia enter into the top 5 of the results. 
+This graph represents the log cases of the top 5 countries where COVID-19 was found to be the most prevalent. With the log cases R code we see results are close to identical with regards to the rise of reported cases. However, we see United States, India, Brazil, Japan, and Russia enter into the top 5 of the results, respectively. 
 
 ### Rise of Infection per 100,000 (Top 5 Countries)
 
@@ -39,8 +39,9 @@ infection_rate_top_country.png
 We can see that the United States blah blah blah
 
 
+![image](https://github.com/crice0023/HW-1/assets/161267590/7c7b7698-a799-46ef-b95f-facbc83a42fd)
 
-
+Graph 2 represents blah blah
 
 infection_rate_g2_India.png
 
