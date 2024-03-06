@@ -37,7 +37,7 @@ This graph represents the log cases of the top 5 countries where COVID-19 was fo
 
 infection_rate_top_country.png
 
-We can see that the United States blah blah blah
+We can see that the United States has the highest infection rate. 
 
 #### Graph 3.2 India
 
@@ -82,5 +82,7 @@ infection_rate_g5_Brazil.png
 ## Session Info
 
 To reproduce the session info I've included the raw data and R code file and made this repository public. 
+
 Raw Data: [https://github.com/crice0023/HW-1/tree/main/raw%20data]
+
 R Code: [https://github.com/crice0023/HW-1/tree/main/R%20code]
