@@ -28,7 +28,7 @@ This graph represents all countries involved within the raw dataset and shows th
 
 log_cases_by_top_countries.png
 
-This graph represents the log cases of the top 5 countries where COVID-19 was found to be the most prevalent. 
+This graph represents the log cases of the top 5 countries where COVID-19 was found to be the most prevalent. With the log cases R code we see results are close to identical with regards to the rise of reported cases. However, we see United States, India, Brazil, Japan, and Russia enter into the top 5 of the results. 
 
 c. main findings where you include the three graphs and a sentence or two on their interpretation
 d. session info to help with reproducibility
