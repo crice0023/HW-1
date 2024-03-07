@@ -5,7 +5,9 @@ This project started with locating two raw datasets from an existing GitHub repo
 Specifically, in this project we will create the following graphs, individually or by group: 
 
 i) overall change in time of log number of cases
+
 ii) change in time of log number of cases by country
+
 iii) change in time by country of rate of infection per 100,000 cases
 
 ##  Repository Organization
