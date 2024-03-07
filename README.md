@@ -2,6 +2,12 @@
 ## Project Description
 This project started with locating two raw datasets from an existing GitHub repository after learning the basic set up and navigation of GitHub. Data sets were found and saved to a local computer. Then data sets were cleaned and merged in order to piece together a series of visual representations surrounding countries and the impact of the COVID-19 pandemic. 
 
+Specifically, in this project we will create the following graphs, individually or by group: 
+
+i) overall change in time of log number of cases
+ii) change in time of log number of cases by country
+iii) change in time by country of rate of infection per 100,000 cases
+
 ##  Repository Organization
 The folder structure can be found here [https://github.com/crice0023/HW-1/tree/main].
 The structure looks exactly like this: 
