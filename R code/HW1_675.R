@@ -2,7 +2,7 @@
 df1 <- time_series_covid19_confirmed_global
 # rename data set 2
 df2 <- UID_ISO_FIPS_LookUp_Table
-
+### justin is awesome
 # Load dplyr for data manipulation
 library(dplyr)
 
